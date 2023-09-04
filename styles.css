@@ -1,4 +1,4 @@
 /* Apply styles to even radio buttons */
-input:nth-child(even) {
+.input:nth-child(even) {
   color: rgb(255, 0, 0);
 }
